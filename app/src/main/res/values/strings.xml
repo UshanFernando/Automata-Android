@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Automata Dashboard</string>
+    <string name="wifi_error_description">To Communicate with the Main Controller Unit (MCU) Your Smartphone and MCU should connect to the same wifi network!</string>
+    <string name="cant_connect_wifi">Your Device is not Connected to WIFI !</string>
+    <string name="try_again">Try Again</string>
+    <string name="cancel">cancel</string>
+    <string name="title_activity_dashboard">Dashboard</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+</resources>
